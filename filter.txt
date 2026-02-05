@@ -1,0 +1,11 @@
+assembly
+gender
+minority
+minority - gender wise
+number missing match - wrong phone numbers
+
+# run a file
+cd "/Users/lakshmisk/Desktop/MLC spread sheet"
+"/Users/lakshmisk/Desktop/MLC spread sheet/.venv/bin/python" code.py
+
+

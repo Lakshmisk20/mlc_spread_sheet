@@ -1,0 +1,22 @@
+Posting Date,Company,Account,Debit, Credit, Voucher Type, Remark
+2025-04-01,Vihaan Trust Bangalore (demo),Bank - HDFC - VN,500000,,Journal Entry,Opening bank balance
+2025-04-02,Vihaan Trust Bangalore (demo),Donations - Individuals - VN,,25000,Journal Entry,Donation received
+2025-04-03,Vihaan Trust Bangalore (demo),Rescue Program Expense - VN,15000,,Journal Entry,Rescue activity
+2025-04-04,Vihaan Trust Bangalore (demo),Legal Aid Expense - VN,12000,,Journal Entry,Legal support
+2025-04-05,Vihaan Trust Bangalore (demo),Salary - VN,40000,,Journal Entry,Staff salary
+2025-04-06,Vihaan Trust Bangalore (demo),Rent - VN,20000,,Journal Entry,Office rent
+2025-04-07,Vihaan Trust Bangalore (demo),Travel & Field Work - VN,8000,,Journal Entry,Field travel
+2025-04-08,Vihaan Trust Bangalore (demo),Donations - Corporates - VN,,50000,Journal Entry,CSR donation
+2025-04-09,Vihaan Trust Bangalore (demo),Education Program Expense - VN,18000,,Journal Entry,Education materials
+2025-04-10,Vihaan Trust Bangalore (demo),Child Protection Expense - VN,16000,,Journal Entry,Protection activity
+
+2025-04-01,Vihaan Trust Mumbai (demo),Bank - SBI - VN,400000,,Journal Entry,Opening bank balance
+2025-04-02,Vihaan Trust Mumbai (demo),Donations - Individuals - VN,,20000,Journal Entry,Donation received
+2025-04-03,Vihaan Trust Mumbai (demo),Rescue Program Expense - VN,14000,,Journal Entry,Rescue activity
+2025-04-04,Vihaan Trust Mumbai (demo),Legal Aid Expense - VN,11000,,Journal Entry,Legal support
+2025-04-05,Vihaan Trust Mumbai (demo),Salary - VN,35000,,Journal Entry,Staff salary
+2025-04-06,Vihaan Trust Mumbai (demo),Rent - VN,18000,,Journal Entry,Office rent
+2025-04-07,Vihaan Trust Mumbai (demo),Travel & Field Work - VN,9000,,Journal Entry,Field travel
+2025-04-08,Vihaan Trust Mumbai (demo),Donations - Corporates - VN,,45000,Journal Entry,CSR donation
+2025-04-09,Vihaan Trust Mumbai (demo),Education Program Expense - VN,17000,,Journal Entry,Education materials
+2025-04-10,Vihaan Trust Mumbai (demo),Child Protection Expense - VN,15000,,Journal Entry,Protection activity
